@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4919b8a63c220e843a745f45175db5ae, type: 3}
+  m_Name: "stations_data_JR\u5C71\u624B\u7DDA"
+  m_EditorClassIdentifier: 
+  data:
+  - station_cd: 1130201
+    station_g_cd: 1130201
+    station_name: "\u5927\u5D0E"
+    pos_x: 4
+    pos_y: 20
+  - station_cd: 1130202
+    station_g_cd: 1130202
+    station_name: "\u4E94\u53CD\u7530"
+    pos_x: 2
+    pos_y: 20
+  - station_cd: 1130203
+    station_g_cd: 1130203
+    station_name: "\u76EE\u9ED2"
+    pos_x: 0
+    pos_y: 20
+  - station_cd: 1130204
+    station_g_cd: 1130204
+    station_name: "\u6075\u6BD4\u5BFF"
+    pos_x: 0
+    pos_y: 18
+  - station_cd: 1130205
+    station_g_cd: 1130205
+    station_name: "\u6E0B\u8C37"
+    pos_x: 0
+    pos_y: 16
+  - station_cd: 1130206
+    station_g_cd: 1130206
+    station_name: "\u539F\u5BBF"
+    pos_x: 0
+    pos_y: 14
+  - station_cd: 1130207
+    station_g_cd: 1130207
+    station_name: "\u4EE3\u3005\u6728"
+    pos_x: 0
+    pos_y: 12
+  - station_cd: 1130208
+    station_g_cd: 1130208
+    station_name: "\u65B0\u5BBF"
+    pos_x: 0
+    pos_y: 10
+  - station_cd: 1130209
+    station_g_cd: 1130209
+    station_name: "\u65B0\u5927\u4E45\u4FDD"
+    pos_x: 0
+    pos_y: 8
+  - station_cd: 1130210
+    station_g_cd: 1130210
+    station_name: "\u9AD8\u7530\u99AC\u5834"
+    pos_x: 0
+    pos_y: 6
+  - station_cd: 1130211
+    station_g_cd: 1130211
+    station_name: "\u76EE\u767D"
+    pos_x: 0
+    pos_y: 4
+  - station_cd: 1130212
+    station_g_cd: 1130212
+    station_name: "\u6C60\u888B"
+    pos_x: 0
+    pos_y: 2
+  - station_cd: 1130213
+    station_g_cd: 1130213
+    station_name: "\u5927\u585A"
+    pos_x: 2
+    pos_y: 2
+  - station_cd: 1130214
+    station_g_cd: 1130214
+    station_name: "\u5DE3\u9D28"
+    pos_x: 4
+    pos_y: 0
+  - station_cd: 1130215
+    station_g_cd: 1130215
+    station_name: "\u99D2\u8FBC"
+    pos_x: 6
+    pos_y: 0
+  - station_cd: 1130216
+    station_g_cd: 1130216
+    station_name: "\u7530\u7AEF"
+    pos_x: 8
+    pos_y: 2
+  - station_cd: 1130217
+    station_g_cd: 1130217
+    station_name: "\u897F\u65E5\u66AE\u91CC"
+    pos_x: 10
+    pos_y: 2
+  - station_cd: 1130218
+    station_g_cd: 1130218
+    station_name: "\u65E5\u66AE\u91CC"
+    pos_x: 12
+    pos_y: 2
+  - station_cd: 1130219
+    station_g_cd: 1130219
+    station_name: "\u9DAF\u8C37"
+    pos_x: 12
+    pos_y: 4
+  - station_cd: 1130220
+    station_g_cd: 1130220
+    station_name: "\u4E0A\u91CE"
+    pos_x: 12
+    pos_y: 6
+  - station_cd: 1130221
+    station_g_cd: 1130221
+    station_name: "\u5FA1\u5F92\u753A"
+    pos_x: 12
+    pos_y: 8
+  - station_cd: 1130222
+    station_g_cd: 1130222
+    station_name: "\u79CB\u8449\u539F"
+    pos_x: 12
+    pos_y: 10
+  - station_cd: 1130223
+    station_g_cd: 1130223
+    station_name: "\u795E\u7530"
+    pos_x: 12
+    pos_y: 12
+  - station_cd: 1130224
+    station_g_cd: 1130101
+    station_name: "\u6771\u4EAC"
+    pos_x: 12
+    pos_y: 14
+  - station_cd: 1130225
+    station_g_cd: 1130225
+    station_name: "\u6709\u697D\u753A"
+    pos_x: 12
+    pos_y: 16
+  - station_cd: 1130226
+    station_g_cd: 1130102
+    station_name: "\u65B0\u6A4B"
+    pos_x: 12
+    pos_y: 18
+  - station_cd: 1130227
+    station_g_cd: 1130227
+    station_name: "\u6D5C\u677E\u753A"
+    pos_x: 12
+    pos_y: 20
+  - station_cd: 1130228
+    station_g_cd: 1130228
+    station_name: "\u7530\u753A"
+    pos_x: 10
+    pos_y: 20
+  - station_cd: 1130230
+    station_g_cd: 1130230
+    station_name: "\u9AD8\u8F2A\u30B2\u30FC\u30C8\u30A6\u30A7\u30A4"
+    pos_x: 8
+    pos_y: 20
+  - station_cd: 1130229
+    station_g_cd: 1130103
+    station_name: "\u54C1\u5DDD"
+    pos_x: 6
+    pos_y: 20
