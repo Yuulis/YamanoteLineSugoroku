@@ -13,7 +13,7 @@ public class StationsDataReader : AssetPostprocessor
         {
             const string file_name = "stations_data_JR山手線.csv";
 
-            if (str.IndexOf("Assets/fieldData/" + file_name) != -1)
+            if (str.IndexOf("Assets/FieldData/" + file_name) != -1)
             {
                 Debug.Log($"Start reading '{file_name}'.");
 
