@@ -20,11 +20,11 @@ public class PlayerCameraController : MonoBehaviour
 
         if (playerCamera.orthographicSize > 0)
         {
-            playerCamera.orthographicSize += scroll;
+            playerCamera.orthographicSize -= scroll;
         }
         else
         {
-            playerCamera.orthographicSize -= scroll;
+            playerCamera.orthographicSize += scroll;
         }
     }
 }
